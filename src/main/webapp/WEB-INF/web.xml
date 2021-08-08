@@ -5,10 +5,10 @@
          version="4.0">
 
   <display-name>firstapp</display-name>
-  <servlet>
-    <servlet-name>FirstServlet</servlet-name>
-    <servlet-class>com.geekbrains.app.FirstServlet</servlet-class>
-  </servlet>
+<!--  <servlet>-->
+<!--    <servlet-name>FirstServlet</servlet-name>-->
+<!--    <servlet-class>com.geekbrains.app.FirstServlet</servlet-class>-->
+<!--  </servlet>-->
   
   <servlet-mapping>
     <servlet-name>FirstServlet</servlet-name>
